@@ -24,7 +24,7 @@ StarUML
 注意：上述括号中的内容必须体现在图中，缺一项本实验得分扣5分；请自行设计类图和对象图，注意逻辑。
 
 ●实验过程
-![圖片](https://github.dev/rgGrpp/1/blob/main/%E8%BF%B7%E4%BD%A0%E5%9C%96%E6%9B%B8%E9%A4%A8%E8%A3%A1%E7%B3%BB%E7%B5%B1%E7%94%A8%E4%BE%8B%E5%9C%96)
+![圖片](https://github.com/rgGrpp/1/blob/main/%E8%BF%B7%E4%BD%A0%E5%9C%96%E6%9B%B8%E9%A4%A8%E8%A3%A1%E7%B3%BB%E7%B5%B1%E7%94%A8%E4%BE%8B%E5%9C%96.png)
 
 1.完整的类图：
 分析：
