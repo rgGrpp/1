@@ -25,7 +25,7 @@ StarUML
 
 ●实验过程
 
-
+![圖片](https://github.com/rgGrpp/1/blob/main/%E5%AE%8C%E6%95%B4%E7%9A%84%E9%A1%9E%E5%9C%96.png)
 1.完整的类图：
 分析：
 
