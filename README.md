@@ -38,5 +38,5 @@ StarUML
 和Library之间存在组成关系，各个类都设置了一定的可见性，有的定义了一些操作方法。
 
 2.对象图：
-![圖片](https://github.dev/rgGrpp/1/blob/main/%E8%BF%B7%E4%BD%A0%E5%9C%96%E6%9B%B8%E9%A4%A8%E8%A3%A1%E7%B3%BB%E7%B5%B1%E7%94%A8%E4%BE%8B%E5%9C%96)
+![圖片](https://github.com/rgGrpp/1/blob/main/%E9%A1%9E%E5%9C%96.png)
 从上图可以看出有三个对象。
